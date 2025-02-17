@@ -22,3 +22,4 @@ int add()
         printf("The substraction is: %d\n", sub);
         return 0;
     }
+}
