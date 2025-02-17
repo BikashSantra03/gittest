@@ -1,14 +1,14 @@
 #include <stdio.h>
 
-int add()
+int sub()
 {
     int a = 5;
     int b = 10;
-    return a + b;
+    return a - b;
 }
 int main()
 {
-    int sum = add();
-    printf("The sum is: %d\n", sum);
+    int sum = sub();
+    printf("The substraction is: %d\n", sub);
     return 0;
 }
