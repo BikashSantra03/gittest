@@ -18,7 +18,8 @@ int add()
         int add = add();
         printf("The addision is: %d\n", add);
 
-        int c=10;
+        int c = 10;
+        int d;
 
         int sub = sub();
         printf("The substraction is: %d\n", sub);
